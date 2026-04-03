@@ -3,7 +3,7 @@
 This project implements a customer segmentation solution using the **KMeans clustering** algorithm. The goal is to group customers based on their annual income and spending score, enabling businesses to better understand their customer base and tailor marketing strategies accordingly.
 
 ## 📁 Project Structure
-
+```
 ├── Dokumentacja_UM_L2_48860.pdf   # Project documentation 
 ├── Mall_Customers.csv             # Customer dataset
 ├── Projekt_UM_L2_48860.ipynb      # Jupyter Notebook with full implementation
