@@ -4,7 +4,7 @@ This project implements a customer segmentation solution using the **KMeans clus
 
 ## 📁 Project Structure
 
-├── Dokumentacja_UM_L2_48860.pdf   # Project documentation (Polish)
+├── Dokumentacja_UM_L2_48860.pdf   # Project documentation 
 ├── Mall_Customers.csv             # Customer dataset
 ├── Projekt_UM_L2_48860.ipynb      # Jupyter Notebook with full implementation
 └── README.md                      # This file
