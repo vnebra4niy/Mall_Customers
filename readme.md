@@ -1,16 +1,13 @@
-```markdown
 # Customer Clustering with KMeans
 
 This project implements a customer segmentation solution using the **KMeans clustering** algorithm. The goal is to group customers based on their annual income and spending score, enabling businesses to better understand their customer base and tailor marketing strategies accordingly.
 
 ## 📁 Project Structure
 
-```
 ├── Dokumentacja_UM_L2_48860.pdf   # Project documentation (Polish)
 ├── Mall_Customers.csv             # Customer dataset
 ├── Projekt_UM_L2_48860.ipynb      # Jupyter Notebook with full implementation
 └── README.md                      # This file
-```
 
 ## 🎯 Objective
 
@@ -51,9 +48,9 @@ The dataset contains 200 customer records with the following attributes:
 
 Install the required Python packages:
 
-```bash
+
 pip install pandas numpy matplotlib seaborn scikit-learn
-```
+
 
 Alternatively, run the notebook in **Google Colab** – all libraries are pre-installed.
 
@@ -98,4 +95,3 @@ The notebook includes a 2D scatter plot of the clusters with centroids marked as
 **Mikita Kutsayeu**  
 Student ID: 48860  
 Warsaw, Akademia Vizja – Faculty of Information Technology
-```
